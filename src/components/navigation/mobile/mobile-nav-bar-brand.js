@@ -9,7 +9,7 @@ export const MobileNavBarBrand = ({ handleClick }) => {
         <img
           className=''
           src={NavLogo}
-          alt="Auth0 shield logo"
+          alt="Car Care"
           width="50"
           height="50"
         />

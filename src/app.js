@@ -24,21 +24,21 @@ export const App = () => {
 
   return (
     <Routes>
-      <Route path="/" element={<HomePage />} />
+      <Route path="carcare/" element={<HomePage />} />
       <Route
-        path="/profile"
+        path="carcare/profile"
         element={<AuthenticationGuard component={ProfilePage} />}
       />
-      <Route path="/public" element={<PublicPage />} />
+      <Route path="carcare/public" element={<PublicPage />} />
       <Route
-        path="/protected"
+        path="carcare/protected"
         element={<AuthenticationGuard component={ProtectedPage} />}
       />
       <Route
-        path="/admin"
+        path="carcare/admin"
         element={<AuthenticationGuard component={AdminPage} />}
       />
-      <Route path="/callback" element={<CallbackPage />} />
+      <Route path="carcare/callback" element={<CallbackPage />} />
       <Route path="*" element={<NotFoundPage />} />
     </Routes>
   );
