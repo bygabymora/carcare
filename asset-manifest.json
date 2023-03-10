@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/carcare/static/css/main.3620e251.css",
-    "main.js": "/carcare/static/js/main.dc7c4200.js",
+    "main.js": "/carcare/static/js/main.36eed63e.js",
     "static/media/heroBannerLogo.png": "/carcare/static/media/heroBannerLogo.6cbf5fcaf100fdc98c55.png",
     "static/media/navBarLogo.png": "/carcare/static/media/navBarLogo.6cbf5fcaf100fdc98c55.png",
     "index.html": "/carcare/index.html",
     "main.3620e251.css.map": "/carcare/static/css/main.3620e251.css.map",
-    "main.dc7c4200.js.map": "/carcare/static/js/main.dc7c4200.js.map"
+    "main.36eed63e.js.map": "/carcare/static/js/main.36eed63e.js.map"
   },
   "entrypoints": [
     "static/css/main.3620e251.css",
-    "static/js/main.dc7c4200.js"
+    "static/js/main.36eed63e.js"
   ]
 }
