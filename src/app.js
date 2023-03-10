@@ -29,16 +29,16 @@ export const App = () => {
         path="carcare/profile"
         element={<AuthenticationGuard component={ProfilePage} />}
       />
-      <Route path="carcare/public" element={<PublicPage />} />
+      <Route path="/public" element={<PublicPage />} />
       <Route
-        path="carcare/protected"
+        path="/protected"
         element={<AuthenticationGuard component={ProtectedPage} />}
       />
       <Route
-        path="carcare/admin"
+        path="/admin"
         element={<AuthenticationGuard component={AdminPage} />}
       />
-      <Route path="carcare/callback" element={<CallbackPage />} />
+      <Route path="/callback" element={<CallbackPage />} />
       <Route path="*" element={<NotFoundPage />} />
     </Routes>
   );
