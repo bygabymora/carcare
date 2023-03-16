@@ -34,14 +34,6 @@ export const PageFooter = () => {
                 By Gaby Mora
               </PageFooterHyperlink>
             </p>
-            <p className="page-footer-message__description">
-              <PageFooterHyperlink path="https://auth0.com/docs/quickstarts/">
-                <span>
-                  Implementando ingreso seguro de <span/>
-                </span>
-                <u>Auth0</u>
-              </PageFooterHyperlink>
-            </p>
           </div>
           <div className="page-footer-info__button">
             <SignupButton/>
