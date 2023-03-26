@@ -10,7 +10,7 @@ const root = createRoot(container);
 
 root.render(
 
-    <BrowserRouter>
+    <BrowserRouter basename='/carcare'>
       <Auth0ProviderWithNavigate>
         <App/>
       </Auth0ProviderWithNavigate>
