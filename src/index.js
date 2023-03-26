@@ -12,7 +12,7 @@ root.render(
 
     <BrowserRouter>
       <Auth0ProviderWithNavigate>
-        <App />
+        <App/>
       </Auth0ProviderWithNavigate>
     </BrowserRouter>
   
