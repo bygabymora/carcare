@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.3620e251.css",
-    "main.js": "/static/js/main.969c378b.js",
-    "static/media/heroBannerLogo.png": "/static/media/heroBannerLogo.6cbf5fcaf100fdc98c55.png",
-    "static/media/navBarLogo.png": "/static/media/navBarLogo.6cbf5fcaf100fdc98c55.png",
-    "index.html": "/index.html",
-    "main.3620e251.css.map": "/static/css/main.3620e251.css.map",
-    "main.969c378b.js.map": "/static/js/main.969c378b.js.map"
+    "main.css": "/carcare/static/css/main.3620e251.css",
+    "main.js": "/carcare/static/js/main.c11b3c67.js",
+    "static/media/heroBannerLogo.png": "/carcare/static/media/heroBannerLogo.6cbf5fcaf100fdc98c55.png",
+    "static/media/navBarLogo.png": "/carcare/static/media/navBarLogo.6cbf5fcaf100fdc98c55.png",
+    "index.html": "/carcare/index.html",
+    "main.3620e251.css.map": "/carcare/static/css/main.3620e251.css.map",
+    "main.c11b3c67.js.map": "/carcare/static/js/main.c11b3c67.js.map"
   },
   "entrypoints": [
     "static/css/main.3620e251.css",
-    "static/js/main.969c378b.js"
+    "static/js/main.c11b3c67.js"
   ]
 }
